@@ -31,5 +31,4 @@ Project in progress 🚧
 Author
 
 Nitesh Kumar Jain
-M.Sc. Botany (Molecular Biology & Biotechnology)# rna-seq-analysis-arabidopsis
-RNA-seq data analysis project using Python (PCA, heatmaps)
+M.Sc. Botany (Molecular Biology & Biotechnology)
